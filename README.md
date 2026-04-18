@@ -50,7 +50,7 @@ Bundle features to increase perceived value
 Offer targeted discounts to high-risk users
 
 6. 👥 Gender is NOT a Key Driver
-7. 
+ 
 Churn is almost evenly split between male and female customers
 💡 Conclusion:
 Gender is not a useful segmentation variable
@@ -58,7 +58,7 @@ Focus on behavior, pricing, and contracts instead
 
 
 8. ⚠️ Overall Retention Problem
-9. 
+ 
 Nearly 1 in 3 customers leave
 💡 Founder-level concern:
 This is not just a marketing issue — it's a product + pricing + experience problem
