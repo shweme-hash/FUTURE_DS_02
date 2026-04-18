@@ -8,8 +8,11 @@ This project focuses on identifying why customers leave (churn) and what actions
 📌 Key Metrics
 
 Total Customers: 7,043
+
 Churned Customers: 1,869
+
 Churn Rate: 27%
+
 Churn Risk Level: High
 👉 A 27% churn rate is a serious retention problem — growth will stall unless churn is reduced.
 
